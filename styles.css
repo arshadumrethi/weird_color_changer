@@ -1,0 +1,43 @@
+h1{
+  font-family: sans-serif;
+  color: White;
+}
+
+.wrapper {
+  text-align: center;
+  margin-top: 10%
+}
+
+body {
+  background-color: black;
+}
+
+#box {
+  margin:10% auto auto auto;
+  width: 200px;
+  height: 100px;
+  background: #f4f4f4;
+  text-align: center;
+  border: 3px solid green;
+}
+
+#box2 {
+  margin:10% auto auto auto;
+  width: 200px;
+  height: 100px;
+  background: #f4f4f4;
+  text-align: center;
+  border: 3px solid green;
+}
+
+button {
+  align: center;
+  background-color: White; /* Green */
+  border: 1px solid Black;
+  color: Black;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 20px;
+}
